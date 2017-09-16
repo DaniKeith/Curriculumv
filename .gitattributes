@@ -1,2 +1,67 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Curriculum_Vitae
+
+<!DOCTYPE.html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <meta name="Author" content="Daniel Flores">
+    <meta name="description" content="Hoja de Vida de Daniel Flores">
+    <title>CURRUCULUM VITAE</title>
+  </head>
+  <body>
+    <header>
+<svg height="200" width="200" viewbox="0 0 200 200">
+      <g
+         inkscape:label="Capa 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.68702316px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.96717554;"
+           x="76.197067"
+           y="77.088943"
+           id="text4576"
+           transform="scale(0.75251931,1.3288695)"><tspan
+             sodipodi:role="line"
+             id="tspan4574"
+             x="76.197067"
+             y="77.088943"
+             style="stroke-width:0.96717554;fill:#0000ff;">DFA</tspan></text>
+      </svg>
+    </header>
+    <h1>Curriculum vitae</h1>
+      <h2>Daniel Keith Flores Almonacid</h2>
+    <h2>Datos Personales</h2>
+    <p>Daniel Keith Flores Almonacid</p>
+      <h3>Lugar de Nacimiento</h3>
+      <p>Madre de Dios-Perú</p>
+      <h3>Fecha de Nacimiento</h3>
+      <p>11 de Febrero del 1982</p>
+    <ul>
+      <li>
+        <a href="html/educacion.html">Educación</a>
+      </li>
+      <li><a href="html/experiencia.html">Experiencia</a></li>
+    </ul>
+    <h2> Informacion Personal</h2>
+      <img src="img/foto.jpg"alt="foto"title="foto"width="150px" height="100px"/>
+      <h2>Perfil</h2>
+      <p>Soy una persona emprendedora, pro activa que le gusta cumplir con sus objetivos y hace todod lo posible para realizarlo, hablo dos idiomas como son:
+      </p>
+      <ul>
+        <li>Ingles</li>
+        <li>Español</li>
+        <li>Frances</li>
+      </ul>
+      <foot>
+        <h2>Contacto</h2>
+        <ul>
+        <li><a href="mailto:d_keith19@hotmail.com?subject=feedback">Escribeme</a></li>
+<li><strong>Celular 0051940480628</strong></li>
+<li><strong>Cusco-Perú</strong></li>
+      </foot>
+</body>
+</html>
